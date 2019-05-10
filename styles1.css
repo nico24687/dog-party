@@ -1,0 +1,24 @@
+.topnav {
+  background-color: #92DFE5;
+  overflow: hidden;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  overflow: hidden; 
+}
+
+.topnav a {
+  text-decoration: none;
+  font-family: Open sans-serif;
+  font-size: 16px;
+  color: black;
+  text-align: center;
+}
+
+.nav-link {
+  float: right;
+  padding-right:20px;
+}
+
+.dog-icon {
+  padding-left: 10px; 
+}
